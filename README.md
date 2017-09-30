@@ -38,7 +38,7 @@ não é um objetivo deste exercício.
 Entrada | Saida
 ------- | -----
 `1 1 1 1 1 2` | `01234\n01234\n`
-`1 1 2 2 1 3` | `014\n01234\n`
+`1 1 2 2 1 3` | `014\n01234\n014\n`
 `2 2 2 2 3 4` | `-\n0123\n4\n0123\n`
 
 ## Instruções adicionais
